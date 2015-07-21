@@ -1,0 +1,1 @@
+This document has moved to [Project Status](http://docs.crashpad.googlecode.com/git/doc/status.html).

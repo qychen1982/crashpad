@@ -1,0 +1,1 @@
+The project’s description has moved to [Crashpad](http://docs.crashpad.googlecode.com/git/doc/index.html).

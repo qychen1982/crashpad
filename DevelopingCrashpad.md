@@ -1,0 +1,1 @@
+This document has moved to [Developing Crashpad](http://docs.crashpad.googlecode.com/git/doc/developing.html).
